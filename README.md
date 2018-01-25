@@ -1,13 +1,13 @@
 <h1>Python Django Blog Site</h1>
 
 
-<h2>Steps to Run the Project</h2>
+<h2>Steps to Run the Project - Unix OS</h2>
 
 <ul type="disc">
 
   <li>cd DjangoBlog</li> 
   
-  <li>source SanalOrtam/bin/activate</li>
+  <li>source sanalOrtam/bin/activate</li>
   
   <li>python manage.py createsuperuser</li>
   
